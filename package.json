@@ -1,0 +1,15 @@
+{
+  "name": "zero-to-tech",
+  "version": "1.0.0",
+  "scripts": {
+    "preview": "vite preview",
+    "vite": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^8.1.5"
+  },
+  "dependencies": {
+    "animatejs": "^1.0.1"
+  }
+}

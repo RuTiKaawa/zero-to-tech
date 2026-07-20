@@ -1,4 +1,4 @@
-import { animate, scrambleText } from "animatejs";
+import { animate, scrambleText } from "animejs";
 
 export function initScoreAnim() {
   var btn = document.querySelector(".primary-button");

@@ -1,4 +1,4 @@
-import { animate, stagger } from "animatejs";
+import { animate, stagger } from "animejs";
 
 export function initCardsAnim() {
   animate(".card", {

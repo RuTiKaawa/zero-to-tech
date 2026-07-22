@@ -2,8 +2,8 @@
   "name": "zero-to-tech",
   "version": "1.0.0",
   "scripts": {
+    "dev": "vite",
     "preview": "vite preview",
-    "vite": "vite",
     "build": "vite build"
   },
   "devDependencies": {
